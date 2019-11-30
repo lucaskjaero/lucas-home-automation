@@ -17,9 +17,23 @@
   trigger:
   - at: '7:30'
     platform: time
-  condition: []
+  condition:
+    condition: time
+    weekday:
+      - mon
+      - tue
+      - wed
+      - thu
+      - fri
   action:
   - data:
       entity_id:
       - light.bedroom
     service: light.turn_on
+  - alias: ''
+    data:
+      message: Good morning Lucas
+    entity_id:
+      - media_player.bedroom
+      - media_player.living_room
+    service: tts.google_translate_say
