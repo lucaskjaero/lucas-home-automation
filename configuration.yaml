@@ -14,8 +14,14 @@ group: !include groups.yaml
 automation: !include automations.yaml
 script: !include scripts.yaml
 scene: !include scenes.yaml
+
 sensor:
   - platform: pushbullet
     api_key: !secret pushbullet_api
     monitored_conditions:
       - body
+
+asuswrt:
+  host: 192.168.50.1
+  username: !secret asus_username
+  password: !secret asus_password
