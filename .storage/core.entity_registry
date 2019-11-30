@@ -1,0 +1,233 @@
+{
+    "data": {
+        "entities": [
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "binary_sensor.updater",
+                "name": null,
+                "platform": "updater",
+                "unique_id": "updater"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "person.lucas_kjaero_zhang",
+                "name": null,
+                "platform": "person",
+                "unique_id": "2ac909f005254ac2ad6347102e09f969"
+            },
+            {
+                "config_entry_id": "1f6da64553c248039b9a76edf5bddc90",
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "weather.home",
+                "name": null,
+                "platform": "met",
+                "unique_id": "home"
+            },
+            {
+                "config_entry_id": "b222c548b9bc41db853ff07cf531d223",
+                "device_id": "a1b6a4c729e546f8819c9b2ad1d2a19c",
+                "disabled_by": null,
+                "entity_id": "media_player.shield",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "1db019ae-9ca0-1e7c-edc3-0ec3db8c8398"
+            },
+            {
+                "config_entry_id": "b222c548b9bc41db853ff07cf531d223",
+                "device_id": "e4757222f6f14ecfac9a575532f347e4",
+                "disabled_by": null,
+                "entity_id": "media_player.living_room_speaker",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "a1376abd-ba43-8179-bb5d-980ac45dd6a2"
+            },
+            {
+                "config_entry_id": "b222c548b9bc41db853ff07cf531d223",
+                "device_id": "35b3a96e2d3243cb9e5e1b9846d9a545",
+                "disabled_by": null,
+                "entity_id": "media_player.kitchen_display",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "eed77a30-2ba5-aec9-d5f8-9c3446f54480"
+            },
+            {
+                "config_entry_id": "b222c548b9bc41db853ff07cf531d223",
+                "device_id": "3043b434819443d4abad06ada9ed67d4",
+                "disabled_by": null,
+                "entity_id": "media_player.bedroom_tv",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "78ff6df8-6cb8-2f51-2247-8b18d17fd545"
+            },
+            {
+                "config_entry_id": "b222c548b9bc41db853ff07cf531d223",
+                "device_id": "0e044aa697d54e2dbd435cc58867b7a4",
+                "disabled_by": null,
+                "entity_id": "media_player.office_speaker",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "da47831e-13c6-b74c-9a7f-7f23a13687c0"
+            },
+            {
+                "config_entry_id": "41599469a00e4f1b968113af32ca1d3b",
+                "device_id": "6eb8c033b43b40309258c68b0d5f47cd",
+                "disabled_by": null,
+                "entity_id": "media_player.living_room",
+                "name": null,
+                "platform": "sonos",
+                "unique_id": "RINCON_347E5C9CCCDE01400"
+            },
+            {
+                "config_entry_id": "41599469a00e4f1b968113af32ca1d3b",
+                "device_id": "a7c5815d32fc4e6ba89403b73509b4a4",
+                "disabled_by": null,
+                "entity_id": "media_player.office",
+                "name": null,
+                "platform": "sonos",
+                "unique_id": "RINCON_7828CAFE5DF001400"
+            },
+            {
+                "config_entry_id": "41599469a00e4f1b968113af32ca1d3b",
+                "device_id": "8e15c282b40a405bb55b68a64e43e0fd",
+                "disabled_by": null,
+                "entity_id": "media_player.kitchen",
+                "name": null,
+                "platform": "sonos",
+                "unique_id": "RINCON_7828CAFA9DE401400"
+            },
+            {
+                "config_entry_id": "41599469a00e4f1b968113af32ca1d3b",
+                "device_id": "ceb30798d1ed4df2a215e96a00e6e126",
+                "disabled_by": null,
+                "entity_id": "media_player.bedroom",
+                "name": null,
+                "platform": "sonos",
+                "unique_id": "RINCON_7828CAFA9EB801400"
+            },
+            {
+                "config_entry_id": "ccd97599dc0f43f9bfbba343d5acaf25",
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "sensor.plex_thelio",
+                "name": null,
+                "platform": "plex",
+                "unique_id": "sensor-dea7ab39c5805015c0a577de0d30e68027ae16c9"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "person.luqi_kjaero_zhang",
+                "name": null,
+                "platform": "person",
+                "unique_id": "6c998b5dbc7248c19ed4d839bd529ac9"
+            },
+            {
+                "config_entry_id": "c11da66a8f1c4756b94ce068d7bc5470",
+                "device_id": "72e2edd5763e4dc79b018d7924d23eed",
+                "disabled_by": null,
+                "entity_id": "light.bathroom_left",
+                "name": null,
+                "platform": "hue",
+                "unique_id": "00:17:88:01:02:84:8e:3e-0b"
+            },
+            {
+                "config_entry_id": "c11da66a8f1c4756b94ce068d7bc5470",
+                "device_id": "20dda7d7163a4fb9b52a426cd064693a",
+                "disabled_by": null,
+                "entity_id": "light.hue_lightstrip",
+                "name": null,
+                "platform": "hue",
+                "unique_id": "00:17:88:01:02:af:24:17-0b"
+            },
+            {
+                "config_entry_id": "c11da66a8f1c4756b94ce068d7bc5470",
+                "device_id": "ded73a4569ba43f9a252555ce63f6a67",
+                "disabled_by": null,
+                "entity_id": "light.office_top",
+                "name": null,
+                "platform": "hue",
+                "unique_id": "00:17:88:01:02:88:09:67-0b"
+            },
+            {
+                "config_entry_id": "c11da66a8f1c4756b94ce068d7bc5470",
+                "device_id": "92fcffea22994675873b903f9268853b",
+                "disabled_by": null,
+                "entity_id": "light.kitchen_fan",
+                "name": null,
+                "platform": "hue",
+                "unique_id": "00:17:88:01:03:63:70:1a-0b"
+            },
+            {
+                "config_entry_id": "c11da66a8f1c4756b94ce068d7bc5470",
+                "device_id": "834fb66e54d84db1992e9c83041208c2",
+                "disabled_by": null,
+                "entity_id": "light.office_bottom",
+                "name": null,
+                "platform": "hue",
+                "unique_id": "00:17:88:01:02:f7:e7:63-0b"
+            },
+            {
+                "config_entry_id": "c11da66a8f1c4756b94ce068d7bc5470",
+                "device_id": "fc6e166354014b55b6812ff48d7935f8",
+                "disabled_by": null,
+                "entity_id": "light.bathroom_right",
+                "name": null,
+                "platform": "hue",
+                "unique_id": "00:17:88:01:02:82:13:df-0b"
+            },
+            {
+                "config_entry_id": "c11da66a8f1c4756b94ce068d7bc5470",
+                "device_id": "00834965a58c4fa4bdfcfb6d25d07fad",
+                "disabled_by": null,
+                "entity_id": "light.island_hanging_right",
+                "name": null,
+                "platform": "hue",
+                "unique_id": "00:17:88:01:03:62:7e:0f-0b"
+            },
+            {
+                "config_entry_id": "c11da66a8f1c4756b94ce068d7bc5470",
+                "device_id": "175ad280d1584d62b18093db29b63a1e",
+                "disabled_by": null,
+                "entity_id": "light.bathroom_middle",
+                "name": null,
+                "platform": "hue",
+                "unique_id": "00:17:88:01:02:80:84:b6-0b"
+            },
+            {
+                "config_entry_id": "c11da66a8f1c4756b94ce068d7bc5470",
+                "device_id": "3089fbd28da442bcaa1b38c6d070c2cb",
+                "disabled_by": null,
+                "entity_id": "light.hue_white_lamp_1",
+                "name": null,
+                "platform": "hue",
+                "unique_id": "00:17:88:01:03:63:6e:9d-0b"
+            },
+            {
+                "config_entry_id": "c11da66a8f1c4756b94ce068d7bc5470",
+                "device_id": "a4ab344d89c14c1e882dde5b1e2a4913",
+                "disabled_by": null,
+                "entity_id": "light.bedroom_lamp",
+                "name": null,
+                "platform": "hue",
+                "unique_id": "00:17:88:01:02:88:1e:16-0b"
+            },
+            {
+                "config_entry_id": "c11da66a8f1c4756b94ce068d7bc5470",
+                "device_id": "c0b36a04dd62460983505fe8f7bfd60f",
+                "disabled_by": null,
+                "entity_id": "light.elephant_lamp",
+                "name": null,
+                "platform": "hue",
+                "unique_id": "00:17:88:01:03:62:7d:bf-0b"
+            }
+        ]
+    },
+    "key": "core.entity_registry",
+    "version": 1
+}

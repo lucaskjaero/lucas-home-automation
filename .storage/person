@@ -1,0 +1,20 @@
+{
+    "data": {
+        "persons": [
+            {
+                "device_trackers": [],
+                "id": "2ac909f005254ac2ad6347102e09f969",
+                "name": "Lucas Kjaero-Zhang",
+                "user_id": "f9a85187fea6417481c1d5460c434816"
+            },
+            {
+                "device_trackers": [],
+                "id": "6c998b5dbc7248c19ed4d839bd529ac9",
+                "name": "Luqi Kjaero-Zhang",
+                "user_id": null
+            }
+        ]
+    },
+    "key": "person",
+    "version": 1
+}

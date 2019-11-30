@@ -1,0 +1,13 @@
+- id: '1575095448607'
+  alias: Go to sleep fan
+  description: ''
+  trigger:
+  - at: '22:30'
+    platform: time
+  condition: []
+  action:
+  - alias: ''
+    data:
+      message: Go to sleep fan
+    entity_id: all
+    service: tts.google_translate_say

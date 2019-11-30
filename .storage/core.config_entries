@@ -1,0 +1,95 @@
+{
+    "data": {
+        "entries": [
+            {
+                "connection_class": "cloud_poll",
+                "data": {
+                    "track_home": true
+                },
+                "domain": "met",
+                "entry_id": "1f6da64553c248039b9a76edf5bddc90",
+                "options": {},
+                "source": "onboarding",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "Home",
+                "version": 1
+            },
+            {
+                "connection_class": "local_push",
+                "data": {
+                    "user_id": "cb5fe5e2aee44a6a812a22de3a464713"
+                },
+                "domain": "cast",
+                "entry_id": "b222c548b9bc41db853ff07cf531d223",
+                "options": {},
+                "source": "zeroconf",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "Google Cast",
+                "version": 1
+            },
+            {
+                "connection_class": "local_push",
+                "data": {},
+                "domain": "sonos",
+                "entry_id": "41599469a00e4f1b968113af32ca1d3b",
+                "options": {},
+                "source": "ssdp",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "Sonos",
+                "version": 1
+            },
+            {
+                "connection_class": "local_poll",
+                "data": {
+                    "server": "thelio",
+                    "server_config": {
+                        "client_id": "96d3e1dc-aa6d-4105-a6ae-52f275cd215d",
+                        "token": "yAqbCxTjGF_pv9zkr8yq",
+                        "url": "https://192-168-50-67.c16db6d495994cd3b9140eddcbde3798.plex.direct:32400",
+                        "verify_ssl": true
+                    },
+                    "server_id": "dea7ab39c5805015c0a577de0d30e68027ae16c9"
+                },
+                "domain": "plex",
+                "entry_id": "ccd97599dc0f43f9bfbba343d5acaf25",
+                "options": {
+                    "media_player": {
+                        "show_all_controls": false,
+                        "use_episode_art": false
+                    }
+                },
+                "source": "user",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "thelio",
+                "version": 1
+            },
+            {
+                "connection_class": "local_poll",
+                "data": {
+                    "bridge_id": "001788FFFE62C669",
+                    "host": "192.168.50.18",
+                    "username": "zIlj4cELeCzIsQioJSbXA9bDYV4up7AewadSrA3X"
+                },
+                "domain": "hue",
+                "entry_id": "c11da66a8f1c4756b94ce068d7bc5470",
+                "options": {},
+                "source": "user",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "Tissemand",
+                "version": 1
+            }
+        ]
+    },
+    "key": "core.config_entries",
+    "version": 1
+}

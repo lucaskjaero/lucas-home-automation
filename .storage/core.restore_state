@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "last_seen": "2019-11-30T07:32:21.005726+00:00",
+            "state": {
+                "attributes": {
+                    "editable": true,
+                    "friendly_name": "Luqi Kjaero-Zhang",
+                    "id": "6c998b5dbc7248c19ed4d839bd529ac9"
+                },
+                "context": {
+                    "id": "b0df4c12d2714acca7c5d9c18554ff03",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "person.luqi_kjaero_zhang",
+                "last_changed": "2019-11-30T06:47:18.312960+00:00",
+                "last_updated": "2019-11-30T06:47:20.454554+00:00",
+                "state": "unknown"
+            }
+        },
+        {
+            "last_seen": "2019-11-30T07:32:21.005726+00:00",
+            "state": {
+                "attributes": {
+                    "editable": true,
+                    "friendly_name": "Lucas Kjaero-Zhang",
+                    "id": "2ac909f005254ac2ad6347102e09f969",
+                    "user_id": "f9a85187fea6417481c1d5460c434816"
+                },
+                "context": {
+                    "id": "65ec767d28584d76ae169c559b041603",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "person.lucas_kjaero_zhang",
+                "last_changed": "2019-11-30T06:47:18.313052+00:00",
+                "last_updated": "2019-11-30T06:47:20.454718+00:00",
+                "state": "unknown"
+            }
+        },
+        {
+            "last_seen": "2019-11-30T07:32:21.005726+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Go to sleep fan",
+                    "id": "1575095448607",
+                    "last_triggered": "2019-11-30T06:33:00.351577+00:00"
+                },
+                "context": {
+                    "id": "4ac12a7ded8e439a8fb7131fcda6d7c0",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.go_to_sleep_fan",
+                "last_changed": "2019-11-30T06:47:18.313172+00:00",
+                "last_updated": "2019-11-30T06:47:18.313172+00:00",
+                "state": "on"
+            }
+        }
+    ],
+    "key": "core.restore_state",
+    "version": 1
+}

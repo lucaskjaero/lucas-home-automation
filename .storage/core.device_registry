@@ -1,0 +1,433 @@
+{
+    "data": {
+        "devices": [
+            {
+                "area_id": "a9e276b198be4b2bad414026aef77d8f",
+                "config_entries": [
+                    "b222c548b9bc41db853ff07cf531d223"
+                ],
+                "connections": [],
+                "id": "a1b6a4c729e546f8819c9b2ad1d2a19c",
+                "identifiers": [
+                    [
+                        "cast",
+                        "1db019ae9ca01e7cedc30ec3db8c8398"
+                    ]
+                ],
+                "manufacturer": "NVIDIA",
+                "model": "SHIELD Android TV",
+                "name": "SHIELD",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": "a9e276b198be4b2bad414026aef77d8f",
+                "config_entries": [
+                    "b222c548b9bc41db853ff07cf531d223"
+                ],
+                "connections": [],
+                "id": "e4757222f6f14ecfac9a575532f347e4",
+                "identifiers": [
+                    [
+                        "cast",
+                        "a1376abdba438179bb5d980ac45dd6a2"
+                    ]
+                ],
+                "manufacturer": "Unknown manufacturer",
+                "model": "Google Home",
+                "name": "Living room speaker",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": "5fc2274f3a5f46db9b620d9d28ce662f",
+                "config_entries": [
+                    "b222c548b9bc41db853ff07cf531d223"
+                ],
+                "connections": [],
+                "id": "35b3a96e2d3243cb9e5e1b9846d9a545",
+                "identifiers": [
+                    [
+                        "cast",
+                        "eed77a302ba5aec9d5f89c3446f54480"
+                    ]
+                ],
+                "manufacturer": "Unknown manufacturer",
+                "model": "Google Nest Hub",
+                "name": "Kitchen display",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": "79d1863c7096447a8d34cc492c4746b6",
+                "config_entries": [
+                    "b222c548b9bc41db853ff07cf531d223"
+                ],
+                "connections": [],
+                "id": "3043b434819443d4abad06ada9ed67d4",
+                "identifiers": [
+                    [
+                        "cast",
+                        "78ff6df86cb82f5122478b18d17fd545"
+                    ]
+                ],
+                "manufacturer": "Unknown manufacturer",
+                "model": "Chromecast",
+                "name": "Bedroom TV",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "b222c548b9bc41db853ff07cf531d223"
+                ],
+                "connections": [],
+                "id": "0e044aa697d54e2dbd435cc58867b7a4",
+                "identifiers": [
+                    [
+                        "cast",
+                        "da47831e13c6b74c9a7f7f23a13687c0"
+                    ]
+                ],
+                "manufacturer": "Unknown manufacturer",
+                "model": "Google Home Mini",
+                "name": "Office speaker",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": "a9e276b198be4b2bad414026aef77d8f",
+                "config_entries": [
+                    "41599469a00e4f1b968113af32ca1d3b"
+                ],
+                "connections": [],
+                "id": "6eb8c033b43b40309258c68b0d5f47cd",
+                "identifiers": [
+                    [
+                        "sonos",
+                        "RINCON_347E5C9CCCDE01400"
+                    ]
+                ],
+                "manufacturer": "Sonos",
+                "model": "Beam",
+                "name": "Living Room",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": "420231eab6ec4c68a20b71193f8ca494",
+                "config_entries": [
+                    "41599469a00e4f1b968113af32ca1d3b"
+                ],
+                "connections": [],
+                "id": "a7c5815d32fc4e6ba89403b73509b4a4",
+                "identifiers": [
+                    [
+                        "sonos",
+                        "RINCON_7828CAFE5DF001400"
+                    ]
+                ],
+                "manufacturer": "Sonos",
+                "model": "One",
+                "name": "Office",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": "5fc2274f3a5f46db9b620d9d28ce662f",
+                "config_entries": [
+                    "41599469a00e4f1b968113af32ca1d3b"
+                ],
+                "connections": [],
+                "id": "8e15c282b40a405bb55b68a64e43e0fd",
+                "identifiers": [
+                    [
+                        "sonos",
+                        "RINCON_7828CAFA9DE401400"
+                    ]
+                ],
+                "manufacturer": "Sonos",
+                "model": "One",
+                "name": "Kitchen",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": "79d1863c7096447a8d34cc492c4746b6",
+                "config_entries": [
+                    "41599469a00e4f1b968113af32ca1d3b"
+                ],
+                "connections": [],
+                "id": "ceb30798d1ed4df2a215e96a00e6e126",
+                "identifiers": [
+                    [
+                        "sonos",
+                        "RINCON_7828CAFA9EB801400"
+                    ]
+                ],
+                "manufacturer": "Sonos",
+                "model": "One",
+                "name": "Bedroom",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": "420231eab6ec4c68a20b71193f8ca494",
+                "config_entries": [
+                    "c11da66a8f1c4756b94ce068d7bc5470"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "00:17:88:62:c6:69"
+                    ]
+                ],
+                "id": "6f595ada94cb4cf79808fd3f9b9d02a8",
+                "identifiers": [
+                    [
+                        "hue",
+                        "001788FFFE62C669"
+                    ]
+                ],
+                "manufacturer": "Signify",
+                "model": "BSB002",
+                "name": "Tissemand",
+                "name_by_user": null,
+                "sw_version": "1935144020",
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "c11da66a8f1c4756b94ce068d7bc5470"
+                ],
+                "connections": [],
+                "id": "72e2edd5763e4dc79b018d7924d23eed",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:02:84:8e:3e-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "Hue white lamp",
+                "name": "Bathroom left",
+                "name_by_user": null,
+                "sw_version": "1.29.0_r21169",
+                "via_device_id": "6f595ada94cb4cf79808fd3f9b9d02a8"
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "c11da66a8f1c4756b94ce068d7bc5470"
+                ],
+                "connections": [],
+                "id": "20dda7d7163a4fb9b52a426cd064693a",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:02:af:24:17-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "Hue lightstrip plus",
+                "name": "Hue lightstrip",
+                "name_by_user": null,
+                "sw_version": "5.105.0.21169",
+                "via_device_id": "6f595ada94cb4cf79808fd3f9b9d02a8"
+            },
+            {
+                "area_id": "420231eab6ec4c68a20b71193f8ca494",
+                "config_entries": [
+                    "c11da66a8f1c4756b94ce068d7bc5470"
+                ],
+                "connections": [],
+                "id": "ded73a4569ba43f9a252555ce63f6a67",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:02:88:09:67-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "Hue white lamp",
+                "name": "Office Top",
+                "name_by_user": null,
+                "sw_version": "1.46.13_r26312",
+                "via_device_id": "6f595ada94cb4cf79808fd3f9b9d02a8"
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "c11da66a8f1c4756b94ce068d7bc5470"
+                ],
+                "connections": [],
+                "id": "92fcffea22994675873b903f9268853b",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:03:63:70:1a-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "Hue white lamp",
+                "name": "Kitchen Fan",
+                "name_by_user": null,
+                "sw_version": "1.29.0_r21169",
+                "via_device_id": "6f595ada94cb4cf79808fd3f9b9d02a8"
+            },
+            {
+                "area_id": "420231eab6ec4c68a20b71193f8ca494",
+                "config_entries": [
+                    "c11da66a8f1c4756b94ce068d7bc5470"
+                ],
+                "connections": [],
+                "id": "834fb66e54d84db1992e9c83041208c2",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:02:f7:e7:63-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "Hue white lamp",
+                "name": "Office Bottom",
+                "name_by_user": null,
+                "sw_version": "1.46.13_r26312",
+                "via_device_id": "6f595ada94cb4cf79808fd3f9b9d02a8"
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "c11da66a8f1c4756b94ce068d7bc5470"
+                ],
+                "connections": [],
+                "id": "fc6e166354014b55b6812ff48d7935f8",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:02:82:13:df-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "Hue white lamp",
+                "name": "Bathroom right",
+                "name_by_user": null,
+                "sw_version": "1.29.0_r21169",
+                "via_device_id": "6f595ada94cb4cf79808fd3f9b9d02a8"
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "c11da66a8f1c4756b94ce068d7bc5470"
+                ],
+                "connections": [],
+                "id": "00834965a58c4fa4bdfcfb6d25d07fad",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:03:62:7e:0f-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "Hue white lamp",
+                "name": "Island Hanging Right",
+                "name_by_user": null,
+                "sw_version": "1.29.0_r21169",
+                "via_device_id": "6f595ada94cb4cf79808fd3f9b9d02a8"
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "c11da66a8f1c4756b94ce068d7bc5470"
+                ],
+                "connections": [],
+                "id": "175ad280d1584d62b18093db29b63a1e",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:02:80:84:b6-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "Hue white lamp",
+                "name": "Bathroom middle",
+                "name_by_user": null,
+                "sw_version": "1.29.0_r21169",
+                "via_device_id": "6f595ada94cb4cf79808fd3f9b9d02a8"
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "c11da66a8f1c4756b94ce068d7bc5470"
+                ],
+                "connections": [],
+                "id": "3089fbd28da442bcaa1b38c6d070c2cb",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:03:63:6e:9d-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "Hue white lamp",
+                "name": "Hue white lamp 1",
+                "name_by_user": null,
+                "sw_version": "",
+                "via_device_id": "6f595ada94cb4cf79808fd3f9b9d02a8"
+            },
+            {
+                "area_id": "79d1863c7096447a8d34cc492c4746b6",
+                "config_entries": [
+                    "c11da66a8f1c4756b94ce068d7bc5470"
+                ],
+                "connections": [],
+                "id": "a4ab344d89c14c1e882dde5b1e2a4913",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:02:88:1e:16-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "Hue white lamp",
+                "name": "Bedroom Lamp",
+                "name_by_user": null,
+                "sw_version": "1.46.13_r26312",
+                "via_device_id": "6f595ada94cb4cf79808fd3f9b9d02a8"
+            },
+            {
+                "area_id": "a9e276b198be4b2bad414026aef77d8f",
+                "config_entries": [
+                    "c11da66a8f1c4756b94ce068d7bc5470"
+                ],
+                "connections": [],
+                "id": "c0b36a04dd62460983505fe8f7bfd60f",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:03:62:7d:bf-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "Hue white lamp",
+                "name": "Elephant Lamp",
+                "name_by_user": null,
+                "sw_version": "1.46.13_r26312",
+                "via_device_id": "6f595ada94cb4cf79808fd3f9b9d02a8"
+            }
+        ]
+    },
+    "key": "core.device_registry",
+    "version": 1
+}
