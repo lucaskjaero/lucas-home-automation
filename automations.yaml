@@ -59,8 +59,6 @@
     to: 'off'
   condition: []
   action:
-  - delay:
-    seconds: 30
   - data:
       message: Hahahahahahaha
     entity_id:
