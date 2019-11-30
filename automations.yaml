@@ -12,17 +12,14 @@
     entity_id: all
     service: tts.google_translate_say
 - id: '1575102185394'
-  alias: Test gitops
+  alias: Wake up
   description: ''
   trigger:
-  - at: '9:00'
+  - at: '7:30'
     platform: time
   condition: []
   action:
   - data:
       entity_id:
       - light.bedroom
-      - light.elephant_lamp
-      - light.office
-      - light.office_bottom
     service: light.turn_on
