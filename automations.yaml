@@ -37,3 +37,24 @@
       - media_player.bedroom
       - media_player.living_room
     service: tts.google_translate_say
+- id: '1575104738252'
+  alias: Say welcome home
+  description: ''
+  trigger:
+  - entity_id: person.lucas_kjaero_zhang
+    platform: state
+    to: home
+  - entity_id: person.luqi_kjaero_zhang
+    platform: state
+    to: home
+  condition: []
+  action:
+  - device_id: c0b36a04dd62460983505fe8f7bfd60f
+    domain: light
+    entity_id: light.elephant_lamp
+    type: turn_on
+  - data:
+      message: Welcome home
+    entity_id:
+      - media_player.living_room
+    service: tts.google_translate_say
