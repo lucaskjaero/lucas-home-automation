@@ -1,2 +1,6 @@
 secrets.yml
-
+.storage/auth*
+*.db
+*.mp3
+tts/*
+*.log
