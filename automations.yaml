@@ -59,11 +59,6 @@
     to: 'off'
   condition: []
   action:
-  - data:
-      message: Hahahahahahaha
-    entity_id:
-      - media_player.living_room
-      - media_player.bedroom
   - device_id: a4ab344d89c14c1e882dde5b1e2a4913
     domain: light
     entity_id: light.bedroom_lamp
@@ -72,3 +67,8 @@
     domain: light
     entity_id: light.elephant_lamp
     type: turn_on
+  - data:
+      message: Hahahahahahaha
+    entity_id:
+      - media_player.living_room
+      - media_player.bedroom
