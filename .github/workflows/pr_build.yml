@@ -1,0 +1,24 @@
+name: CI
+
+on: [pull_request]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Install home assistant
+      run: |
+       sudo apt-get install python3-setuptools python3-venv
+       python3 -m venv homeassistant
+       source homeassistant/bin/activate
+       python3 -m pip install wheel
+       python3 -m pip install homeassistant
+    - name: Set up dummy secrets file
+      run: mv secrets-build.yaml secrets.yaml
+    - name: Test configuration
+      run: | 
+        source homeassistant/bin/activate
+        hass --script check_config -c .
