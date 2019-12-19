@@ -12,6 +12,8 @@ jobs:
     - name: Install home assistant
       run: |
        sudo apt-get install python3-setuptools
+       python3 -m venv homeassistant
+       source homeassistant/bin/activate
        python3 -m pip install wheel
        python3 -m pip install homeassistant
     - name: Set up dummy secrets file
