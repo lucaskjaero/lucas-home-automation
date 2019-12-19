@@ -10,7 +10,9 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Install home assistant
-      run: python3 -m pip install homeassistant
+      run: |
+       apt-get install python3-setuptools
+       python3 -m pip install homeassistant
     - name: Set up dummy secrets file
       run: mv secrets-build.yaml secrets.yaml
     - name: Test configuration
