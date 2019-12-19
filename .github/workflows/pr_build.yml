@@ -11,3 +11,7 @@ jobs:
     - uses: actions/checkout@v1
     - name: Install home assistant
       run: python3 -m pip install homeassistant
+    - name: Set up dummy secrets file
+      run: mv secrets-build.yaml secrets.yaml
+    - name: Test configuration
+      run: hass --script check_config -c .
