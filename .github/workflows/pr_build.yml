@@ -19,4 +19,6 @@ jobs:
     - name: Set up dummy secrets file
       run: mv secrets-build.yaml secrets.yaml
     - name: Test configuration
-      run: hass --script check_config -c .
+      run: | 
+        source homeassistant/bin/activate
+        hass --script check_config -c .
