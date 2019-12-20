@@ -19,7 +19,7 @@
     service: light.turn_on
   - alias: ''
     data:
-      message: Good morning Lucas
+      message: Good morning Lucas, check your phone before you go to the shower. Enjoy! 
     entity_id:
       - media_player.bedroom
       - media_player.living_room
