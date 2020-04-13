@@ -2,7 +2,7 @@
   alias: Wake up
   description: ''
   trigger:
-  - at: '7:30'
+  - at: '8:00'
     platform: time
   condition:
     condition: time
