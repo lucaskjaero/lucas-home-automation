@@ -67,3 +67,25 @@
       - media_player.bedroom
       - media_player.living_room
     service: tts.google_translate_say
+- id: '1575102185396'
+  alias: Time to stop work
+  description: ''
+  trigger:
+  - at: '17:00'
+    platform: time
+  condition:
+    condition: time
+    weekday:
+      - mon
+      - tue
+      - wed
+      - thu
+      - fri
+  action:
+  - alias: ''
+    data:
+      message: Time to stop work
+    entity_id:
+      - media_player.bedroom
+      - media_player.living_room
+    service: tts.google_translate_say
