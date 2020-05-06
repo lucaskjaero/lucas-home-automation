@@ -4,3 +4,4 @@ secrets.yml
 *.mp3
 tts/*
 *.log
+deps
