@@ -24,6 +24,27 @@
       - media_player.bedroom
       - media_player.living_room
     service: tts.google_translate_say
+- id: '1575102185394'
+  alias: Standup
+  description: ''
+  trigger:
+  - at: '10:15'
+    platform: time
+  condition:
+    condition: time
+    weekday:
+      - mon
+      - tue
+      - wed
+      - thu
+      - fri
+  action:
+  - alias: ''
+    data:
+      message: Time for standup
+    entity_id:
+      - media_player.living_room
+    service: tts.google_translate_say
 - id: '1575104738252'
   alias: Coming home
   description: ''
